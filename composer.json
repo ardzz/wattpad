@@ -1,0 +1,17 @@
+{
+    "name": "ardzz/wattpad",
+    "authors": [
+        {
+            "name": "ardzz",
+            "email": "ardzz@indoxploit.or.id"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload":{
+        "psr-4": {
+            "Wattpad\\": "src/"
+        }
+    }
+}
