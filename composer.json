@@ -1,5 +1,7 @@
 {
     "name": "ardzz/wattpad",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "ardzz",
